@@ -8,6 +8,10 @@ order: 10
 
 <%= partial "/docs/partials/v2_transition_banner" %>
 
+Depending on your project, `fly launch` may be able to look at your app's source code and get through that ingredient list, straight to a ready-to-deploy Fly App. 
+This is most likely for frameworks on which Fly.io has people specializing full time. Right now that's [Elixir/Phoenix](/docs/elixir/), [Laravel](/docs/laravel/), [Rails](/docs/rails/), and [Django](/docs/django/), but we also have launch guides for other [languages and frameworks](/docs/languages-and-frameworks/).
+
+
 With Fly Launch, you can create a brand new app on Fly.io by running this command from the source directory of your project:
 
 ```cmd
