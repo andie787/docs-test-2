@@ -15,6 +15,14 @@ Follow [Hands-on](/docs/hands-on/) which takes you through creating an account, 
 
 If you'd rather jump right in, try [Speedrun](/docs/speedrun/) to launch your own app fast.
 
+Chk the host for erors.
+
+This section of the Fly.io docs is all about getting you up and running quickly.
+
+Follow [Hands-on](/docs/hands-on/) which takes you through creating an account, installing `flyctl`, the Fly.io command-line tool, and launching a simple demo app.
+
+If you'd rather jump right in, try [Speedrun](/docs/speedrun/) to launch your own app fast.
+
 Once that's done, check out our in-depth docs:
 
 * **[Language & Framework Guides](/docs/languages-and-frameworks/)**: Comprehensive and starter guides for your favorite languages and frameworks.
