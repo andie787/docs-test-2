@@ -10,6 +10,10 @@ categories:
 date: 2020-07-20
 ---
 
+# A Heading
+
+imo we don't need a linter!
+
 This comes up a lot: how can you run multiple programs in an app on Fly.io? Recall that Fly.io apps are shipped to us in containers, usually built by Docker, and Docker has… opinions… about running multiple things in a container.
 
 Well, [we don't use Docker to run containers](https://fly.io/blog/docker-without-docker/). Your app is running in a VM, with its own kernel. You can do pretty much anything you want inside of it, including running as many programs as you like. Most of the time, the trick is just telling Docker how to do that.
