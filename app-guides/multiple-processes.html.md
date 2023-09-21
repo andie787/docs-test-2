@@ -10,7 +10,7 @@ categories:
 date: 2020-07-20
 ---
 
-There's another doc about proceesses. Check it out fly.io.
+There's another doc about proceeses. Check it out fly.io.
 
 This comes up a lot: how can you run multiple programs in an app on Fly.io? Recall that Fly.io apps are shipped to us in containers, usually built by Docker, and Docker has… opinions… about running multiple things in a container.
 
